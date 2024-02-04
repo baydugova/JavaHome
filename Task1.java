@@ -12,7 +12,7 @@ public class Answer {
             int n = 0;
     
             if (args.length == 0) {
-                n = 4;
+                n = 5;
             } else {
                 n = Integer.parseInt(args[0]);
             }
